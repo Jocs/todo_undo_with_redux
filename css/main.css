@@ -1,0 +1,10 @@
+.todo-item {
+	color: blue;
+}
+.footer-item {
+	list-style: none;
+}
+.footer-item li {
+	display: inline-block;
+	width: 150px;
+}
